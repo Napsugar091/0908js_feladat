@@ -1,0 +1,46 @@
+body{
+    background-color: #EEEEFF;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 1px solid #8F8FCF;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px;;
+}
+
+h1{
+    text-align: center;
+    margin: auto;
+    color: rgb(64,0,144);
+    width: 300px;
+    padding: 5px 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px;
+    background-color: #f4f5fe;
+
+}
+
+h2{
+    font-size: 120%;
+}
+
+p{
+    margin-left: 100px;
+    position: relative;
+}
+
+.adat{
+    /*margin-left: 50px;*/
+    position: absolute;
+    left: 200px;
+}
+
+.adat input{
+    width: 100px;
+    text-align: right;
+}
+
+[type="button"] {
+    display: block;
+    margin: 0 auto;
+}
